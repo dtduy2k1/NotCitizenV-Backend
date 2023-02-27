@@ -1,0 +1,16 @@
+[INFO ] 2023-01-28 23:14:26.816 [restartedMain] BackendApplication - Starting BackendApplication using Java 11.0.14.1 on ZuE with PID 4912 (D:\UET\Code\Web\vue-material-kit-master\src\be\target\classes started by ZuE in D:\UET\Code\Web\vue-material-kit-master\src\be)
+[DEBUG] 2023-01-28 23:14:26.825 [restartedMain] BackendApplication - Running with Spring Boot v2.7.7, Spring v5.3.24
+[INFO ] 2023-01-28 23:14:26.826 [restartedMain] BackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-01-28 23:14:33.154 [restartedMain] BackendApplication - Started BackendApplication in 6.807 seconds (JVM running for 8.108)
+[INFO ] 2023-01-28 23:17:54.708 [restartedMain] BackendApplication - Starting BackendApplication using Java 11.0.14.1 on ZuE with PID 10092 (D:\UET\Code\Web\vue-material-kit-master\src\be\target\classes started by ZuE in D:\UET\Code\Web\vue-material-kit-master\src\be)
+[DEBUG] 2023-01-28 23:17:54.741 [restartedMain] BackendApplication - Running with Spring Boot v2.7.7, Spring v5.3.24
+[INFO ] 2023-01-28 23:17:54.743 [restartedMain] BackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-01-28 23:18:04.446 [restartedMain] BackendApplication - Started BackendApplication in 10.628 seconds (JVM running for 13.117)
+[INFO ] 2023-01-28 23:23:42.167 [restartedMain] BackendApplication - Starting BackendApplication using Java 11.0.14.1 on ZuE with PID 10992 (D:\UET\Code\Web\vue-material-kit-master\src\be\target\classes started by ZuE in D:\UET\Code\Web\vue-material-kit-master\src\be)
+[DEBUG] 2023-01-28 23:23:42.188 [restartedMain] BackendApplication - Running with Spring Boot v2.7.7, Spring v5.3.24
+[INFO ] 2023-01-28 23:23:42.191 [restartedMain] BackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-01-28 23:23:52.161 [restartedMain] BackendApplication - Started BackendApplication in 11.011 seconds (JVM running for 13.256)
+[INFO ] 2023-01-28 23:24:00.636 [restartedMain] BackendApplication - Starting BackendApplication using Java 11.0.14.1 on ZuE with PID 7448 (D:\UET\Code\Web\vue-material-kit-master\src\be\target\classes started by ZuE in D:\UET\Code\Web\vue-material-kit-master\src\be)
+[DEBUG] 2023-01-28 23:24:00.660 [restartedMain] BackendApplication - Running with Spring Boot v2.7.7, Spring v5.3.24
+[INFO ] 2023-01-28 23:24:00.661 [restartedMain] BackendApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-01-28 23:24:10.143 [restartedMain] BackendApplication - Started BackendApplication in 10.422 seconds (JVM running for 12.544)
